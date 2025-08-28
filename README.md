@@ -70,6 +70,7 @@ step 3 :- To stop the application :-
 Note*:-
   1.Ensure port 27017 (MongoDB) and 8080 (app) are free on your machine.
   2.All endpoints are available under /movies.
+  3.Docker must be Installed.
 
           
 
