@@ -1,4 +1,4 @@
-Read this README in view mode
+View this README in code mode
 
 Movie Management
 
