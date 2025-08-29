@@ -56,7 +56,7 @@ How to run the project in Docker :-
 
 step 1 :- Clone the repository:-
           COMMANDS:-
-            git clone https://github.com/yourusername/MovieManagement.git
+            git clone https://github.com/kab1rshaikh/MovieManagement.git
             cd MovieManagement
 
 step 2 :- Build and Start the application:-
